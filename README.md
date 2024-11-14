@@ -1,1 +1,1 @@
-# DevopsProject
+# mindcircuit13 - SAMPLE APP
